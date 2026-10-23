@@ -2,7 +2,7 @@
 
 **A web-based operating system prototype, built as a single-page React app.**
 
-Klork.os is a dark, desktop-and-mobile OS shell that runs entirely in your browser. It ships with a window engine, built-in apps, an App Store, notifications, theming, and a mock virtual filesystem, all bundled into one self-contained file.
+Klork.os is a dark, desktop-and-mobile OS shell that runs entirely in your browser where every app is a *Component*. It ships with a window engine, built-in apps, an App Store, notifications, theming, and a mock virtual filesystem, all bundled into one self-contained file.
 
 ## Features
 
